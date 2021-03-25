@@ -1,0 +1,21 @@
+{
+
+  "comentarios_camara_o_mp4": "Puede ser: 0 - 1 - 2 - 3 - ... - o el nombre del archivo con ruta completa",
+  "archivo_1": "/home/inv/osi/2021/Almería2021/notebooks/cesar_1_15fps_resize_crop.mp4",
+  "archivo_2": "/home/inv/osi/2021/Almería2021/notebooks/cesar_2_15fps_resize_crop.mp4",
+  "archivo_3": "/home/inv/osi/2021/POO2021/CamaraCircular/cesar_1_640.mp4",
+  "camara_virtual_obs": 2,
+  "camara_o_mp4": 0,
+
+  "tiempo_para_timer_procesar": 10,
+
+  "deshabilitar_chroma_keying": true,
+
+  "ancho_imagen_camara": 320,
+  "alto_imagen_camara": 240,
+  "comentarios_posicion_ventana": "Puede ser: centro - abajo_der - arriba_izq - max",
+  "posicion_ventana": "abajo_der",
+
+  "alpha_camara": 210
+
+}
